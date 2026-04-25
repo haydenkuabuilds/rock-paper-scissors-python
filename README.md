@@ -16,3 +16,9 @@ Note: It only works on WINDOWS because i used winsound
 4. **Run the game**:
    ```bash
    python rock_paper_scissors.py
+
+
+required dependencies: 
+python
+winsound
+random

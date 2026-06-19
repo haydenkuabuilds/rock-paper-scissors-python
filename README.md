@@ -9,16 +9,17 @@ Note: It only works on WINDOWS because i used winsound
 - **Input Validation:** Handles typos so the game doesn't crash if you mistype "rock".
 - **Lightweight:** Single-file script, no heavy libraries to install.
 
-## 🛠️ How to Run
-1. **Download** the `rock_paper_scissors.py` file.
-2. **Open CMD** (Command Prompt) on Windows.
-3. **Navigate** to your download folder.
-4. **Run the game**:
+## 📋 Requirements
+- **Python 3.x** (built-in modules only - no pip install needed!)
+- **Windows** (uses `winsound` module which is Windows-only)
+
+## 🛠️ Installation & How to Run
+1. Make sure you have **Python 3.x installed** on Windows
+2. Download the `rock_paper_scissors.py` file
+3. Open Command Prompt (CMD) and navigate to the file location
+4. Run:
    ```bash
    python rock_paper_scissors.py
+   ```
 
-
-required dependencies: 
-python
-winsound
-random
+**No pip installation needed!** This game uses only Python's built-in modules.
